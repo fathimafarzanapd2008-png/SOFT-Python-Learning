@@ -2,7 +2,7 @@
 # Name: Fathima Farzana
 # Staff: Sathish Kumar M
 
-print('Hello, World!')
-print(3 + 4)
+print("Hello, World!")
+print(3+4)
 print(type(10))
-print(type('Python'))
+print(type('Pythom'))
