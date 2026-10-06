@@ -1,7 +1,7 @@
 # SOFT Python Learning
 
 **Student:** Fathima Farzana
-**Register No:** XXXXX
+**Register No:** 26122
 **Staff:** Sathish Kumar M
 **Department:** School of Future Technology, Jain University
 
